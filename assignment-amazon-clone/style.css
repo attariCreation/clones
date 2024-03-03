@@ -1,0 +1,12 @@
+body{
+    cursor: none;
+}
+#left{
+    width: 50vw;
+    cursor: url(./assets/extras/amazon-fill.png),auto;background-color: red;
+}
+#right{
+    width: 50vw;
+    cursor: auto;
+    background-color: green;
+}
